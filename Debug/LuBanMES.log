@@ -1,0 +1,111 @@
+﻿  MES-Leader.c
+d:\code\c\课程设计系列\lubanmes\lubanmes\maininterface.h(10): warning C4083: 应输入“newline”；找到标识符“；”
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-plsupervisionengineer.h(16): warning C4091: “typedef ”: 没有声明变量时忽略“ProductionLine”的左侧
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-plsupervisionengineer.h(24): warning C4091: “typedef ”: 没有声明变量时忽略“ProductionTool”的左侧
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-leader.c(16): warning C4083: 应输入“newline”；找到标识符“；”
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-leader.c(152): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-leader.c(218): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-leader.c(243): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-leader.c(262): warning C4013: “wareInterface”未定义；假设外部返回 int
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-leader.c(266): warning C4013: “DProcessInterface”未定义；假设外部返回 int
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-leader.c(280): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-leader.c(291): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-leader.c(318): warning C4013: “queryMWareAdmin”未定义；假设外部返回 int
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-leader.c(321): warning C4013: “checkDProcessAdmin”未定义；假设外部返回 int
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-leader.c(338): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-leader.c(349): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-leader.c(366): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-leader.c(385): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-leader.c(389): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-leader.c(400): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-leader.c(417): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-leader.c(436): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-leader.c(440): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-leader.c(480): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-leader.c(484): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-leader.c(488): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-leader.c(492): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-leader.c(496): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-leader.c(500): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-leader.c(502): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-leader.c(548): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-leader.c(620): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-leader.c(692): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-leader.c(750): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-leader.c(756): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-leader.c(838): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-leader.c(888): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-leader.c(927): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-leader.c(952): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-leader.c(988): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-leader.c(992): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-leader.c(996): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-leader.c(1000): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-leader.c(1004): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-leader.c(1008): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-leader.c(1010): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-leader.c(1056): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-leader.c(1127): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-leader.c(1198): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-leader.c(1256): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-leader.c(1262): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-leader.c(1342): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-leader.c(1391): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-leader.c(1429): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-leader.c(1454): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-leader.c(1710): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-leader.c(1731): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-leader.c(1759): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-leader.c(1785): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-leader.c(1891): warning C4047: “=”:“char”与“char *”的间接级别不同
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-leader.c(1895): warning C4047: “函数”:“const char *”与“char”的间接级别不同
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-leader.c(1895): warning C4024: “strcpy”: 形参和实参 2 的类型不同
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-leader.c(1890): warning C4047: “初始化”:“char”与“char [1]”的间接级别不同
+  MES-PLSupervisionEngineer.c
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-plsupervisionengineer.h(16): warning C4091: “typedef ”: 没有声明变量时忽略“ProductionLine”的左侧
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-plsupervisionengineer.h(24): warning C4091: “typedef ”: 没有声明变量时忽略“ProductionTool”的左侧
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-plsupervisionengineer.c(11): warning C4083: 应输入“newline”；找到标识符“；”
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-plsupervisionengineer.c(80): warning C4013: “smartFactoryShow”未定义；假设外部返回 int
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-plsupervisionengineer.c(81): warning C4013: “Gotoxy”未定义；假设外部返回 int
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-plsupervisionengineer.c(105): warning C4013: “charRotation”未定义；假设外部返回 int
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-plsupervisionengineer.c(226): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-plsupervisionengineer.c(109): warning C4101: “type”: 未引用的局部变量
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-plsupervisionengineer.c(123): warning C4101: “type”: 未引用的局部变量
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-plsupervisionengineer.c(137): warning C4101: “type”: 未引用的局部变量
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-plsupervisionengineer.c(151): warning C4101: “type”: 未引用的局部变量
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-plsupervisionengineer.c(165): warning C4101: “type”: 未引用的局部变量
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-plsupervisionengineer.c(179): warning C4101: “type”: 未引用的局部变量
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-plsupervisionengineer.c(193): warning C4101: “type”: 未引用的局部变量
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-plsupervisionengineer.c(207): warning C4101: “type”: 未引用的局部变量
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-plsupervisionengineer.c(262): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-plsupervisionengineer.c(294): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-plsupervisionengineer.c(326): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-plsupervisionengineer.c(359): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-plsupervisionengineer.c(365): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-plsupervisionengineer.c(510): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-plsupervisionengineer.c(523): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-plsupervisionengineer.c(550): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-plsupervisionengineer.c(577): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-plsupervisionengineer.c(604): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-plsupervisionengineer.c(626): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-plsupervisionengineer.c(692): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-plsupervisionengineer.c(727): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-plsupervisionengineer.c(759): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-plsupervisionengineer.c(791): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-plsupervisionengineer.c(797): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-plsupervisionengineer.c(909): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-plsupervisionengineer.c(922): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-plsupervisionengineer.c(949): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-plsupervisionengineer.c(976): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-plsupervisionengineer.c(998): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-plsupervisionengineer.c(1050): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-plsupervisionengineer.c(1090): warning C4013: “adminLeaderInterface”未定义；假设外部返回 int
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-plsupervisionengineer.c(1204): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-plsupervisionengineer.c(1324): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-plsupervisionengineer.c(230): warning C4717: “SuperPLInterface”: 如递归所有控件路径，函数将导致运行时堆栈溢出
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-leader.c(284): warning C4717: “rootLeaderInterface”: 如递归所有控件路径，函数将导致运行时堆栈溢出
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-leader.c(342): warning C4717: “adminLeaderInterface”: 如递归所有控件路径，函数将导致运行时堆栈溢出
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-leader.c(393): warning C4717: “materialComInterface”: 如递归所有控件路径，函数将导致运行时堆栈溢出
+d:\code\c\课程设计系列\lubanmes\lubanmes\mes-leader.c(1875): warning C4715: “allSave”: 不是所有的控件路径都返回值
+  LuBanMES.vcxproj -> D:\Code\C\课程设计系列\LuBanMES\Debug\LuBanMES.exe
